@@ -1,0 +1,14 @@
+{
+  "name": "avelin-field-journal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Avelin language and its collaborative design journal",
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "dependencies": {"marked": "15.0.12"}
+}
