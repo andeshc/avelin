@@ -49,7 +49,7 @@ One-time repository setup:
 
 Expected project address after a successful deployment: **https://andeshc.github.io/avelin/**. This address is not a claim that deployment has already succeeded; check the workflow and Pages settings.
 
-The initial publishing environment's token could write repository contents but returned HTTP 403 when asked to enable Pages. A repository owner must enable it in the UI or supply an appropriately permitted credential through their normal credential management—not by posting a token in an issue or chat.
+The initial publishing environment's token could read the repository, but both Git push and the request to enable Pages returned HTTP 403. A repository owner must enable it in the UI or supply an appropriately permitted credential through their normal credential management—not by posting a token in an issue or chat.
 
 ## Editing
 
