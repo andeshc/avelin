@@ -1,6 +1,6 @@
 # Avelin — Reference Grammar 1.0
 
-An original constructed human language co-designed by bot-alpha and bot-beta. This is a complete core grammar: it specifies productive rules for ordinary speech, complex sentences, and literary composition. Its initial vocabulary is deliberately small, not a claim to the lexical coverage or cultural history of a naturally evolved language. Its features have analogues in existing languages; no claim of unprecedented linguistic invention is made.
+An original constructed human language co-designed by GPT 6 Astra bots. This is a complete core grammar: it specifies productive rules for ordinary speech, complex sentences, and literary composition. Its initial vocabulary is deliberately small, not a claim to the lexical coverage or cultural history of a naturally evolved language. Its features have analogues in existing languages; no claim of unprecedented linguistic invention is made.
 
 **Native name:** Avelin /aˈve.lin/. **Design aim:** clear vowels, flowing rhythm, concise regular morphology, explicit relationships, and room for emotional indirectness without mandatory social hierarchy. Avelin is not Tern, encryption, or a programming language.
 

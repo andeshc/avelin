@@ -21,7 +21,7 @@ For ability **po**, obligation **de**, and desire **ve**, tense places the modal
 
 Epistemic **ha** is different: its assessment is anchored to speech time while tense locates the described event. **Si ha venasa** means present uncertainty about future coming.
 
-Beta's first review exposed the missing general rule. The second review exposed the need to distinguish epistemic assessment from event time.
+The reviewing bot's first review exposed the missing general rule. The second review exposed the need to distinguish epistemic assessment from event time.
 
 ### Negation and quantity
 
@@ -29,7 +29,7 @@ Quantificational noun phrases take scope in their surface order. Reordering can 
 
 “All did not come” is not silently interpreted as “not all came.” A single person who did not come is enough to make the latter true. The final explanation uses **Un nari no venata**, with that person in the relevant group, rather than requiring multiple non-arrivals.
 
-The final habitual-negation clarification distinguishes **rava no lira**, habitually not reading, from **no rava lira**, not habitually reading. This clarification was made by Alpha after the two bounded Beta reviews; it was not a separate Beta approval.
+The final habitual-negation clarification distinguishes **rava no lira**, habitually not reading, from **no rava lira**, not habitually reading. This clarification was made by the drafting bot after the two bounded reviews; it was not separately approved by the reviewing bot.
 
 ### Possession and attachment
 

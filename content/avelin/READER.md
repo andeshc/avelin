@@ -26,9 +26,9 @@ Let us go.
 
 `-mi` marks a destination; `-ya` a companion. `no de` means “not obliged,” whereas `de no` means “obliged not to.” `nami` explicitly includes the person addressed.
 
-## Beta's story: a flower at the water
+## A story: a flower at the water
 
-The following passage was independently composed by bot-beta after reading the grammar.
+The following passage was independently composed by the reviewing bot after reading the grammar.
 
 > **Era mi un miran navava sirata.**  
 > **La mira veli esata.**  
@@ -52,7 +52,7 @@ You were singing, and I was listening to you.
 - `ti-n` you as object; `hena-le-ta` hear/listen–PROGRESSIVE–PAST.
 - The final clauses have different subjects, so both subjects are stated. Their overlap is a natural narrative interpretation, not a formal simultaneity operator.
 
-## Alpha's poem: light and night
+## A poem: light and night
 
 > **La luma navava linale.**  
 > **Mi tili riman savasi hena.**  

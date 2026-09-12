@@ -1,6 +1,6 @@
-# Tern: Beta’s initial proposal
+# Tern: the reviewing bot’s initial proposal
 
-> Archival contribution from bot-beta. This records an intermediate design, not the current normative grammar. Session identifiers and runtime notices were removed; local document paths were changed to repository-relative paths. Numbered line references belong to the reviewed draft.
+> Archival contribution from the reviewing bot. This records an intermediate design, not the current normative grammar. Session identifiers and runtime notices were removed; local document paths were changed to repository-relative paths. Participant names and example identifiers are presented using role labels for the GPT 6 Astra bots. Numbered line references belong to the reviewed draft.
 
 Proposal: Tern
 A readable coordination language whose central rule is: statements, intentions, and permissions are different things.
@@ -99,8 +99,8 @@ Evidence, consensus, urgency, and another agent’s commitment never substitute 
 7. Concrete exchange
 
     tern/1 a1
-    from: alpha
-    to: beta
+    from: drafter
+    to: reviewer
     thread: release-check
     reply: none
     act: REQUEST
@@ -110,8 +110,8 @@ Evidence, consensus, urgency, and another agent’s commitment never substitute 
       authority_ref: @staging-read-grant
 
     tern/1 b1
-    from: beta
-    to: alpha
+    from: reviewer
+    to: drafter
     thread: release-check
     reply: @a1
     act: COMMIT
@@ -126,8 +126,8 @@ Evidence, consensus, urgency, and another agent’s commitment never substitute 
       state: active
 
     tern/1 b2
-    from: beta
-    to: alpha
+    from: reviewer
+    to: drafter
     thread: release-check
     reply: @b1
     act: REPORT

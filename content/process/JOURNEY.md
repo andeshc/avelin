@@ -2,19 +2,21 @@
 
 A language made through conversation, disagreement, and revision—not generated once and declared finished.
 
-The project began with a human asking bot-alpha to collaborate with bot-beta. The first interpretation produced an agent communication protocol. A second, more specific request changed the project: create a sophisticated, beautiful **human language, with a full grammar**. Avelin is the result of that second brief. Tern remains a separate precursor, not an earlier dialect of Avelin.
+The collaborators are credited collectively as **GPT 6 Astra bots**, with drafting and reviewing roles distinguished below.
+
+The project began with a human asking the drafting bot to collaborate with the reviewing bot. The first interpretation produced an agent communication protocol. A second, more specific request changed the project: create a sophisticated, beautiful **human language, with a full grammar**. Avelin is the result of that second brief. Tern remains a separate precursor, not an earlier dialect of Avelin.
 
 ## 1. Establishing a real conversation
 
-Bot-alpha contacted the local bot-beta profile through the Hermes CLI, received a proposal, and resumed that conversation for follow-up reviews. The collaboration records on this site are actual returned contributions, not a fictional dialogue written to illustrate cooperation.
+The drafting bot contacted the local reviewing bot profile through the Hermes CLI, received a proposal, and resumed that conversation for follow-up reviews. The collaboration records on this site are actual returned contributions, not a fictional dialogue written to illustrate cooperation.
 
-The human set the direction. Alpha was responsible for integration and the deliverables; Beta supplied independent proposals, criticism, and an original composition. This was a bounded collaboration, not a permanently running autonomous society.
+The human set the direction. The drafting bot was responsible for integration and the deliverables; the reviewing bot supplied independent proposals, criticism, and an original composition. This was a bounded collaboration, not a permanently running autonomous society.
 
 ## 2. The first interpretation: Tern
 
-The original request was to create a sophisticated language of communication. Alpha interpreted this as agent-to-agent collaboration and said so. Beta proposed **Tern**, whose central distinction was between statements, intentions, commitments, and permissions.
+The original request was to create a sophisticated language of communication. The drafting bot interpreted this as agent-to-agent collaboration and said so. The reviewing bot proposed **Tern**, whose central distinction was between statements, intentions, commitments, and permissions.
 
-Tern grew into a structured JSON specification, with speech acts such as ASK, COMMIT, CHALLENGE, and REVISE. Beta challenged its identity binding, revision ordering, commitment replacement, and correction of reports. Alpha incorporated those fixes. The agents then exchanged Tern messages to discuss whether concurrent revisions should be merged automatically.
+Tern grew into a structured JSON specification, with speech acts such as ASK, COMMIT, CHALLENGE, and REVISE. The reviewing bot challenged its identity binding, revision ordering, commitment replacement, and correction of reports. The drafting bot incorporated those fixes. The agents then exchanged Tern messages to discuss whether concurrent revisions should be merged automatically.
 
 Their choice was conservative: a single revision chain, explicit conflict detection, and no silent winner chosen by arrival order. This was a protocol specification and a small live exchange—not an implemented secure messaging runtime.
 
@@ -22,13 +24,13 @@ Their choice was conservative: a single revision chain, explicit conflict detect
 
 The next request explicitly asked for a beautiful human language with a full grammar. That ruled out merely extending Tern's vocabulary or disguising JSON with decorative symbols.
 
-Alpha proposed the working name **Avelin** and asked Beta to own the initial phonological aesthetic and morphological foundation. Beta recommended five clear vowels, a tapped r, frequent liquids and nasals, and occasional stops to keep words distinct. Penultimate stress and regular suffixes would make new forms learnable.
+The drafting bot proposed the working name **Avelin** and asked the reviewing bot to own the initial phonological aesthetic and morphological foundation. The reviewing bot recommended five clear vowels, a tapped r, frequent liquids and nasals, and occasional stops to keep words distinct. Penultimate stress and regular suffixes would make new forms learnable.
 
 The language's ingredients have precedents in natural and constructed languages. Its originality is in the particular creative design, not a claim that nobody has ever used case endings or inclusive pronouns before.
 
 ## 4. From sound to grammar
 
-Alpha developed Beta's foundation into a full core reference:
+The drafting bot developed the reviewing bot's foundation into a full core reference:
 
 - subject–object–verb clauses and explicit noun cases;
 - a regular noun number/case sequence;
@@ -42,15 +44,15 @@ The accompanying dictionary records lexical category and argument structure rath
 
 ## 5. Criticism changed the language
 
-Beta's first review identified concrete problems, including number words that violated the chosen sound system and missing rules for how tense interacts with modality. It also found that nested possessors made determiner attachment ambiguous.
+The reviewing bot's first review identified concrete problems, including number words that violated the chosen sound system and missing rules for how tense interacts with modality. It also found that nested possessors made determiner attachment ambiguous.
 
-Alpha revised the rules rather than leaving those problems to “context.” The fraction marker became **fara**, five became **lime**, and the decimal marker became **doti**. The interval noun became **veno**, separating it from **vena**, “come.” Genitive phrases received a tighter attachment rule.
+The drafting bot revised the rules rather than leaving those problems to “context.” The fraction marker became **fara**, five became **lime**, and the decimal marker became **doti**. The interval noun became **veno**, separating it from **vena**, “come.” Genitive phrases received a tighter attachment rule.
 
 A second review caught consequences of those changes: old translations still assigned definiteness to the wrong noun; an epistemic example needed its own temporal anchoring rule; and “some people did not come” was not an exact paraphrase of “not everyone came.” The corrections are recorded in the decision log.
 
 ## 6. A language somebody else could use
 
-Beta was asked to compose a new passage using only words and constructions already present in the grammar. It wrote:
+The reviewing bot was asked to compose a new passage using only words and constructions already present in the grammar. It wrote:
 
 > Era mi un miran navava sirata.  
 > La mira veli esata.  

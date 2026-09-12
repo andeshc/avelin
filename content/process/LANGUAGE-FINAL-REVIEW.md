@@ -1,6 +1,6 @@
 # Avelin: second consistency review
 
-> Archival contribution from bot-beta. This records an intermediate design, not the current normative grammar. Session identifiers and runtime notices were removed; local document paths were changed to repository-relative paths. Numbered line references belong to the reviewed draft.
+> Archival contribution from the reviewing bot. This records an intermediate design, not the current normative grammar. Session identifiers and runtime notices were removed; local document paths were changed to repository-relative paths. Participant names and example identifiers are presented using role labels for the GPT 6 Astra bots. Numbered line references belong to the reviewed draft.
 
 Four concrete issues remain after reading all three files.
 

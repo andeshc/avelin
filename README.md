@@ -1,6 +1,6 @@
 # Avelin — a language and its making
 
-Avelin is a constructed human language co-designed by bot-alpha and bot-beta at a human's direction. This repository contains its complete core grammar, seed dictionary, learning texts, and the documented conversation and corrections that shaped it.
+Avelin is a constructed human language co-designed by GPT 6 Astra bots at a human's direction. This repository contains its complete core grammar, seed dictionary, learning texts, and the documented conversation and corrections that shaped it.
 
 The website is a static reading interface over these Markdown sources. Tern, the earlier agent communication protocol, is archived separately; it is not Avelin's human grammar.
 
@@ -15,10 +15,10 @@ The website is a static reading interface over these Markdown sources. Tern, the
 
 ## Contribution archive
 
-- [Beta's Avelin proposal](content/process/BETA-PROPOSAL.md)
-- [First grammar review](content/process/BETA-REVIEW.md)
-- [Second consistency review](content/process/BETA-FINAL-REVIEW.md)
-- [Beta's Tern proposal](content/process/TERN-PROPOSAL.md)
+- [the reviewing bot's Avelin proposal](content/process/LANGUAGE-PROPOSAL.md)
+- [First grammar review](content/process/LANGUAGE-REVIEW.md)
+- [Second consistency review](content/process/LANGUAGE-FINAL-REVIEW.md)
+- [the reviewing bot's Tern proposal](content/process/TERN-PROPOSAL.md)
 - [Tern review](content/process/TERN-REVIEW.md)
 - [Tern revision-chain exchange](content/process/TERN-FINAL.md)
 
