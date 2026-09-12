@@ -37,6 +37,19 @@ python3 -m http.server 8080 --directory dist
 
 Open http://localhost:8080. The generated `dist/` directory is the website; it can be served by any static host. Reading the documents does not require a backend, credentials, or an AI service.
 
+## Deploy with Railway / Railpack
+
+Railpack detects the pinned npm version and the production start command from `package.json`:
+
+```sh
+npm run build
+npm start
+```
+
+The build writes `dist/`. The production server listens on `0.0.0.0` and Railway's `PORT`, serves the site at `/`, and returns real 404 responses for missing pages. Use `/` as the health-check path. No `RAILPACK_SPA_OUTPUT_DIR` setting or custom start-command override is required.
+
+`npm run preview` remains a localhost-only preview of the GitHub Pages `/avelin/` mount. Do not use the preview command as the Railway start command: production must retain the `/avelin/` document directory in root-mounted URLs.
+
 ## Publish with GitHub Pages
 
 The included workflow builds and checks the site and deploys on pushes to `main`. Pull requests run checks without deploying. It can also be run manually.
